@@ -1,4 +1,4 @@
-### split a file
+### Split a file
 
 ```bash
 $ lc
@@ -39,7 +39,8 @@ total 390M
 -rw-rw-r-- 1 rog rog 4.9M Nov  1 22:49 stm32-cube-programer.tar.at
 ```
 
-To merge those files:
+### Merge files
+
 ```bash
 $ cat stm32-cube-programer.tar.* > en.stm32cubeprg-lin_v2-11-0.zip
 ```
